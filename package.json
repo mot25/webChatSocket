@@ -1,0 +1,23 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mot25/webChatSocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mot25/webChatSocket/issues"
+  },
+  "homepage": "https://github.com/mot25/webChatSocket#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "concurrently": "^7.0.0"
+  }
+}
